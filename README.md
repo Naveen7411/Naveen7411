@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @Naveen7411
-- 👀 I’m interested in Developing an tech skills  
-- 🌱 I’m currently learning java core
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me drop me an mail naveenyadav7411@gmial.com
+# Hello, I'm Naveen Kumar R 👋
+
+I'm a Developer  passionate about development and tech. Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
+
+## About Me
+
+- 🌍 Located in India
+- 💼 Salesforce Developer
+- 🎓 Graduated in Computer Application
+
+## Skills
+
+- 💻 Programming Languages: Java, Apex, Js
+- 🛠️ Technologies & Tools: Android Studio, VSCode,Esclips
+- 📚 Areas of Interest: Development
+
+## Projects
+
+Here are some projects I've worked on:
+
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
 <!---
 Naveen7411/Naveen7411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
